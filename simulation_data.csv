@@ -1,0 +1,41 @@
+Algorithm,Avg Completion Time,Num Users,Num Machines
+🎬 First-Come-First-Serve (FCFS),44.666666666666664,9,1
+🔍 Shortest Job Next (SJF),54.44444444444444,9,1
+🔄 Round Robin (RR),72.66666666666667,9,1
+⏳ Shortest Remaining Time Next (SRTN),50.0,9,1
+🎬 First-Come-First-Serve (FCFS),37.4,10,1
+🔍 Shortest Job Next (SJF),56.6,10,1
+🔄 Round Robin (RR),42.6,10,1
+⏳ Shortest Remaining Time Next (SRTN),78.9,10,1
+🎬 First-Come-First-Serve (FCFS),21.5,2,1
+🔍 Shortest Job Next (SJF),17.0,2,1
+🔄 Round Robin (RR),13.5,2,1
+⏳ Shortest Remaining Time Next (SRTN),13.0,2,1
+🎬 First-Come-First-Serve (FCFS),18.666666666666668,3,1
+🔍 Shortest Job Next (SJF),24.333333333333332,3,1
+🔄 Round Robin (RR),12.333333333333334,3,1
+⏳ Shortest Remaining Time Next (SRTN),29.666666666666668,3,1
+🎬 First-Come-First-Serve (FCFS),41.4,10,1
+🔍 Shortest Job Next (SJF),54.1,10,1
+🔄 Round Robin (RR),73.0,10,1
+⏳ Shortest Remaining Time Next (SRTN),81.1,10,1
+🎬 First-Come-First-Serve (FCFS),26.2,5,1
+🔍 Shortest Job Next (SJF),30.0,5,1
+🔄 Round Robin (RR),48.6,5,1
+⏳ Shortest Remaining Time Next (SRTN),40.8,5,1
+🎬 First-Come-First-Serve (FCFS),30.142857142857142,7,1
+🔍 Shortest Job Next (SJF),32.42857142857143,7,1
+🔄 Round Robin (RR),60.285714285714285,7,1
+⏳ Shortest Remaining Time Next (SRTN),35.714285714285715,7,1
+🎬 First-Come-First-Serve (FCFS),16.666666666666668,3,1
+🔍 Shortest Job Next (SJF),16.333333333333332,3,1
+🔄 Round Robin (RR),13.333333333333334,3,1
+⏳ Shortest Remaining Time Next (SRTN),32.333333333333336,3,1
+🎬 First-Come-First-Serve (FCFS),20.0,4,1
+🔍 Shortest Job Next (SJF),29.75,4,1
+🔄 Round Robin (RR),16.25,4,1
+⏳ Shortest Remaining Time Next (SRTN),23.25,4,1
+🎬 First-Come-First-Serve (FCFS),23.285714285714285,7,1
+🔍 Shortest Job Next (SJF),52.42857142857143,7,1
+🔄 Round Robin (RR),51.714285714285715,7,1
+⏳ Shortest Remaining Time Next (SRTN),38.42857142857143,7,1
